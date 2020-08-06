@@ -6,7 +6,7 @@ weight: 3
 
 基于 SAFe 的大规模敏捷协作
 
-![](https://cdn2.ones-ai.cn/images/blog/blog-author-kid-7844741522.png)
+![234](https://cdn2.ones-ai.cn/images/blog/blog-author-kid-7844741522.png "321")
 
 冯斌
 
